@@ -1,7 +1,6 @@
 numpy
 pandas
 yfinance
-sqlite
 csv
 xlsxwriter.workbook
 streamlit
