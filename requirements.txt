@@ -4,3 +4,4 @@ yfinance
 sqlite3
 csv
 xlsxwriter.workbook
+streamlit
